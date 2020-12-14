@@ -1,6 +1,36 @@
-/*================================*/
-/* CSS styling for the popup menu */
-/*================================*/
+
+button:after {
+  content:"Of course!";
+}
+
+button:hover:after {
+  content: "Click as you eat them!";
+}
+
+button:focus:active:after {
+  content:"Mushroomifying...";
+}
+
+button:focus:after {
+  content:"Stamets must be proud!";
+}
+
+button span {
+  display: none;
+}
+button:focus:active span {
+  display: none;
+}
+button:focus span {
+  display: inline;
+  padding-right: 0.5em;
+  color: #43B929;
+  font-weight: 900;
+  font-size: 1.3em;
+  margin-bottom: 1.5px;
+}
+
+
 
 body {
   text-align: center;
@@ -9,8 +39,8 @@ body {
   margin: 0;
   padding: 1em;
   color: white;
-  background: radial-gradient(#2C4792, #162346);
-  border: solid 2px #2C4792;
+  border-radius: 100%;
+  background: #F6F6F6;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -18,37 +48,33 @@ body {
 }
 
 h1 {
-  font-size: 1.8em;
-  font-weight: 100;
+  font-size: 2em;
+  font-weight: 900;
   margin: 0.8em;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  background-clip: text;
+  text-fill-color:transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
 }
 
 button {
   cursor: pointer;
-  width: 90%;
+  width: 80%;
   height: 3em;
-  font-size: 1.5em;
-  padding: 0 1em;
-  margin: 0.5em;
-  background: #2D8BDA;
-  opacity: 0.9;
+  font-size: 1.3em;
   color: white;
+  opacity: 0.9;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
   border-radius: 5px;
+  border: none;
   display: flex;
+  margin: 0.5em;
+  padding: 0em 1em;
   align-items: center;
+  justify-content: center;
   outline: none;
 }
 
-button:hover {
-  border: solid 1px white;
-  opacity: 1;
-}
-
-button:disabled {
-  opacity: 0.3;
-}
-
-button span {
-  width: 25%;
-  font-size: 2em;
-}
