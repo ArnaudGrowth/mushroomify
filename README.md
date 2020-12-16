@@ -2,8 +2,8 @@
 
 Mushroomify is a Chrome Extention changing web pictures to pictures of Fungi. It only change it on button click.
 
-Picture 1 -> Picture two
 
+![](images/readMe/MushroomifySnapshot.gif)
 
 ## Installation
 
