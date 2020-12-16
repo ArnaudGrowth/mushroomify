@@ -13,6 +13,19 @@ Simply copy the repository on your terminal.
 $ git remote add origin https://github.com/ArnaudGrowth/mushroomify
 ```
 
+Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge, Chromium, etc.)
+
+
+<details>
+<summary>For non-technical buddy</summary>
+
+Go to XXX and download the folder (zip)
+Go to chrome://extensions/ and select Developer mode
+```
+CODE!
+```
+</details>
+
 ## Contribution guideline
 
 I'm no programmer, but I still love it. Learning on your own is hard, it took me 1+ hour to create a repo on a particular folder with git...
