@@ -14,11 +14,12 @@ Simply copy the repository on your terminal.
 $ git remote add origin https://github.com/ArnaudGrowth/mushroomify
 ```
 
-Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge, Chromium, etc.) at chrome://extensions
+Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge, Chromium, etc.) at [chrome://extensions](chrome://extensions)
 
+### Installation for non-technical buddy
 
 <details>
-<summary>Guide for non-technical buddy</summary>
+<summary>Here's your guide (I know your coming 🕵️‍)</summary>
 
 1. Go to https://github.com/ArnaudGrowth/mushroomify and download the folder 
 
@@ -65,20 +66,20 @@ Now just go to any site you want, click on the extension and you'll see some won
 I'm no programmer, but I still love it. Learning on your own is hard, it took me 1+ hour to create a repo on a particular folder with git...
 
 But I do believe in flexible collaboration 😍👨‍💻
-
 (that's how Human beings - call it homo sapiens - ended on top of the food chain. For good and for bad...). 
 
-So all collaborations are welcome, even critics are constructive so feel free to say what ever you want. 
+**All** collaborations are welcome, from crazyness to even critics. 
+Everything is useful, feel free to say what ever you want. 
 
-So what can give sparkles to my heart: 
+So what can give sparkles to my heart 💖: 
 - Tips on how to better use git, GitHub
 - UI & copy(writing) improvement
-- Improvement of the quality of the code
-  - readability
-  - advices
-  - front enhancement with react or Js
-- Help on my next features (see HOTFIX-NEXT_FEATURE.md) and share **any** propositions of what you may like.
-- Answer to few of my questions (HOTFIX-NEXT_FEATURE.md)
+- Improvement of the quality of the code:
+  - Readability
+  - Advices
+  - Front enhancement with React or Javascript
+- Help on my next features (see [HOTFIX-NEXT_FEATURE.md](https://github.com/ArnaudGrowth/mushroomify/blob/master/HOTFIX-NEXT_FEATURE.md)) and share **any** propositions of what you may like.
+- Answer to few of my questions ([HOTFIX-NEXT_FEATURE.md](https://github.com/ArnaudGrowth/mushroomify/blob/master/HOTFIX-NEXT_FEATURE.md))
 
 But also: 
 - Sharing beautiful projects, code, or course for beginneer 
@@ -92,3 +93,4 @@ If you're in Lyon, I offer the beer or the Latté.
 
 # Disclaimer
 Part of the source code came from [Le Wagon workshop: create your first Chrome Extention](https://github.com/trouni/workshop-chrome-extension)
+Thanks @trouni
