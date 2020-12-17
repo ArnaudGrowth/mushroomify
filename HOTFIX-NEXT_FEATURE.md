@@ -4,6 +4,7 @@ Here's a lists of features and hotfix I (and we) will develop for Mushroomify.
 It also include potential evolution of the Mushroomify extension.
 
 Add **all your ideas** to this list so we can make an awesome extension for all fungi lovers (programmers also accepted 🤩).
+You can go craaaaaaaaaaaaaaaaaaaaaaaaaaazy, I like it and life (and programming) is meant to be fun!🤪
 
 *Is there anything you will like to have within mushroomify? Is there anything you'll like to develop?
 Is there a perculiar direction you want the project to go (e.g. Mushroomify YouTube)?*
