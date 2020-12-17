@@ -77,8 +77,8 @@ So what can give sparkles to my heart:
   - readability
   - advices
   - front enhancement with react or Js
-- Help on my next features (see XXX;wd) and **any** propositions of what you may like.
-- Answer to few of my questions (XXX;WD)
+- Help on my next features (see HOTFIX-NEXT_FEATURE.md) and share **any** propositions of what you may like.
+- Answer to few of my questions (HOTFIX-NEXT_FEATURE.md)
 
 But also: 
 - Sharing beautiful projects, code, or course for beginneer 
