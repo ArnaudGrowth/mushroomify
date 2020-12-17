@@ -26,8 +26,8 @@ Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge
   <img src="images/readMe/dummyGuide1.png" width="550" />
 </p>
 
-2. Go to your downloads and right-click on the file to unzip it. 
-(7-Zip recommended, but built-in compresser work perfectly fine)
+2.a Go to your downloads, move file to a place you won't delete it (/!\ important).
+2.b Right-click on the file to unzip it. (7-Zip recommended, but built-in compresser work perfectly fine)
 
 <p align="center">
   <img src="images/readMe/dummyGuide2.png" width="550" />
@@ -39,7 +39,6 @@ Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge
 <p align="center">
   <img src="images/readMe/dummyGuide3.png" width="550" />
 </p>
-
 
 4. Load the unpacked extension.
 
@@ -86,7 +85,7 @@ But also:
 - And of course, reaching me out to chat :) Promise I won't bit, even if you ask!
 
 Plus if you need any help on Marketing, Growth, Entrepreneurship, Design, Data Analysis and Behavioural science, feel free to reach me out.
-
+Of course, I can pitch you a 30-min conference about fungi 🍄
 [Linkedin](https://www.linkedin.com/in/consulting-and-growth-hacking/) or to my email: arnaud.growth@gmail.com.
 
 If you're in Lyon, I offer the beer or the Latté. 
