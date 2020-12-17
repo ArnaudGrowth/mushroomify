@@ -65,10 +65,10 @@ Now just go to any site you want, click on the extension and you'll see some won
 
 I'm no programmer, but I still love it. Learning on your own is hard, it took me 1+ hour to create a repo on a particular folder with git...
 
-But I do believe in flexible collaboration 😍👨‍💻
+But I do believe in flexible collaboration 😍👨‍💻<br/>
 (that's how Human beings - call it homo sapiens - ended on top of the food chain. For good and for bad...). 
 
-**All** collaborations are welcome, from crazyness to even critics. 
+**All** collaborations are welcome, from crazyness to even critics. <br/>
 Everything is useful, feel free to say what ever you want. 
 
 So what can give sparkles to my heart 💖: 
@@ -85,8 +85,8 @@ But also:
 - Sharing beautiful projects, code, or course for beginneer 
 - And of course, reaching me out to chat :) Promise I won't bit, even if you ask!
 
-Plus if you need any help on Marketing, Growth, Entrepreneurship, Design, Data Analysis and Behavioural science, feel free to reach me out.
-Of course, I can pitch you a 30-min conference about fungi 🍄
+Plus if you need any help on Marketing, Growth, Entrepreneurship, Design, Data Analysis and Behavioural science, feel free to reach me out.<br/>
+Of course, I can pitch you a 30-min conference about fungi 🍄<br/>
 [Linkedin](https://www.linkedin.com/in/consulting-and-growth-hacking/) or to my email: arnaud.growth@gmail.com.
 
 If you're in Lyon, I offer the beer or the Latté. 
