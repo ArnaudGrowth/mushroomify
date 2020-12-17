@@ -75,7 +75,15 @@ The same extension with an automatic feature for Youtube
 > Yet, no clue on how to process.
 
 - Changing time selector from progress bar to Fungi icon
-- Changing left side of the progress bar to mycelium progress svg. (Design need to be realized).
+- Changing progress bar to mycelium-like progress svg. (Design need to be done).
 - Changing auto-player selector to Fungi icon
+
+*Would you like to have anything else?*
+
+A @SlevinWasAlreadyTaken original idea (thank you 😍)
+
+<p align="center">
+  <img src="images/readMe/MushroomifyYoutubeInspiration.jpg" width="350" />
+</p>
 
 
