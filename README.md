@@ -1,9 +1,10 @@
 # Mushroomify
 
-Mushroomify is a Chrome Extention changing web pictures to pictures of Fungi. It only change it on button click.
+Mushroomify is a Chrome Extention changing web pictures to pictures of Fungi. 
 
-
-![](images/readMe/MushroomifySnapshot.gif)
+<p align="center">
+  <img src="images/readMe/MushroomifySnapshot.gif" width="550" />
+</p>
 
 ## Installation
 
@@ -13,17 +14,37 @@ Simply copy the repository on your terminal.
 $ git remote add origin https://github.com/ArnaudGrowth/mushroomify
 ```
 
-Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge, Chromium, etc.)
+Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge, Chromium, etc.) at chrome://extensions
 
 
 <details>
-<summary>For non-technical buddy</summary>
+<summary>Guide for non-technical buddy</summary>
 
-Go to XXX and download the folder (zip)
+Go to https://github.com/ArnaudGrowth/mushroomify and download the folder 
+
+Image 1
+
+Go to your downloads and right-click on the file to unzip it. 
+(7-Zip recommended, but built-in compresser work perfectly fine)
+
+Image2 unzip
+
 Go to chrome://extensions/ and select Developer mode
-```
-CODE!
-```
+
+Image dev mode
+
+Load the unpacked extension.
+
+
+You now have Mushroomify 😍
+
+Last step: Pin the extension. 
+
+Image Pin 
+
+Now just go to any site you want, click on the extension and you'll see some wonder...
+
+
 </details>
 
 ## Contribution guideline
