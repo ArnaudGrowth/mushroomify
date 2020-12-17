@@ -27,7 +27,7 @@ Import the repository on your Chromium-based browser (Chrome, Opera, Brave, Edge
   <img src="images/readMe/dummyGuide1.png" width="550" />
 </p>
 
-2.a Go to your downloads, move file to a place you won't delete it (/!\ important).
+2.a Go to your downloads, move file to a place you won't delete it (/!\ important). <br/>
 2.b Right-click on the file to unzip it. (7-Zip recommended, but built-in compresser work perfectly fine)
 
 <p align="center">
