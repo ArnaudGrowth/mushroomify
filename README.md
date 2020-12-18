@@ -8,7 +8,7 @@ Mushroomify is a Chrome Extention changing web pictures to pictures of Fungi.
 
 ## Installation
 
-Simply copy the repository on your terminal.
+Clone the repository on your terminal.
 
 ```bash
 $ git clone https://github.com/ArnaudGrowth/mushroomify
